@@ -277,7 +277,7 @@ key: {
 fromMe: false, 
 participant: `0@s.whatsapp.net`, 
 ...(from ? {
-remoteJid: '6287705048235@s.whatsapp.net' } : {}) }, 
+remoteJid: '60189830350@s.whatsapp.net' } : {}) }, 
 message: { 
 extendedTextMessage: { 
 text: `${m.pushName}`, 
@@ -354,11 +354,11 @@ N:${await kayla.getName(i + '@s.whatsapp.net')}\n
 FN:${await kayla.getName(i + '@s.whatsapp.net')}\n
 item1.TEL;waid=${i}:${i}\n
 item1.X-ABLabel:Ponsel\n
-item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.EMAIL;type=INTERNET: botzlynx@gmail.com\n
 item2.X-ABLabel:Email\n
-item3.URL:https://bit.ly/39Ivus6\n
+item3.URL:https://bit.ly/3QAzfB2\n
 item3.X-ABLabel:YouTube\n
-item4.ADR:;;Indonesia;;;;\n
+item4.ADR:;;Malaysia;;;;\n
 item4.X-ABLabel:Region\n
 END:VCARD`
 })
@@ -387,7 +387,7 @@ participant: `0@s.whatsapp.net`,
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM DARI KAYLA BOT"
+"optionName": "SALAM DARI LYNN BOT"
 	}
 ],
 "selectableOptionsCount": 5
@@ -397,7 +397,7 @@ const repPy = {
 	key: {
 		remoteJid: '0@s.whatsapp.net',
 		fromMe: false,
-		id: 'Kayla Bot',
+		id: 'lynn Bot',
 		participant: '0@s.whatsapp.net'
 	},
 	message: {
@@ -407,7 +407,7 @@ const repPy = {
 			requestFrom: '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
-					text: 'Creator Kayla'
+					text: 'Creator lyn'
 				}
 			},
 			expiryTimestamp: 999999999,
@@ -451,7 +451,7 @@ participant: `0@s.whatsapp.net`,
 "surface": "CATALOG",
 "message": `Kayla Bot WhatsApp${ngazap(prefix)}`,
 "orderTitle": "Kayla Bot WhatsApp${ngazap(prefix)}",
-"sellerJid": "6287705048235@s.whatsapp.net",
+"sellerJid": "60189830350@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -533,18 +533,18 @@ templateButtons: [
 ]})
 }
 
-const botzkayla = "6282124720691@s.whatsapp.net"
+const botzkayla = "60149431385@s.whatsapp.net"
 const mark = "0@s.whatsapp.net"
 const timestamp = speed()
 const latensi = speed() - timestamp
 const butlocNye = [
-{buttonId: `${prefix}owner`, buttonText: {displayText: '𝗢𝗪𝗡𝗘𝗥'}, type: 1},
-{buttonId: `${prefix}sewabot`, buttonText: {displayText: '𝗦𝗘𝗪𝗔𝗕𝗢𝗧'}, type: 1}
+{buttonId: `${prefix}owner`, buttonText: {displayText: '𝗢𝗪𝗡𝗘𝗥👤'}, type: 1},
+{buttonId: `${prefix}sewabot`, buttonText: {displayText: '𝗦𝗘𝗪𝗔𝗕𝗢𝗧💰'}, type: 1}
 ]
 const buttonLocnya = {
 location: { jpegThumbnail: ppnyauser } ,
 caption: `Hai Kak @${sender.split("@")[0]} 
-𝘚𝘢𝘺𝘢 𝘒𝘢𝘺𝘭𝘢 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
+𝘚𝘢𝘺𝘢 𝘓𝘺𝘯𝘯 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
 
 Nama ${itsMeKayla ? 'Owner' : 'User'} : ${pushname}
 Nomor ${itsMeKayla ? 'Owner' : 'User'} : ${sender.split("@")[0]}
@@ -562,6 +562,7 @@ Otw Ultah Creator : ${kayhari} 𝑯𝒂𝒓𝒊 ${kayjam} 𝑱𝒂𝒎 ${kaymeni
 𝗔𝗹𝗹𝗮𝗵 𝗦𝗪𝗧
 𝗡𝗮𝗯𝗶 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗔𝗪
 𝗢𝗿𝗮𝗻𝗴 𝗧𝘂𝗮
+𝗟𝘆𝗻𝗻-𝗠𝗗
 𝗞𝗮𝘆𝗹𝗮 𝗕𝗼𝘁
 𝗨𝘀𝗲𝗿 𝗕𝗼𝘁`,
 mentions : [sender, botzkayla, mark],
@@ -974,7 +975,7 @@ const listMenuMessage = {
 text: `Silahkan Kak @${sender.split("@")[0]} Pencet Button List Message Nya Di Bawah Ya`,
 mentions: [sender],
 footer: fake,
-buttonText: 'List Button by Aril',
+buttonText: 'List Button by Lynm',
 sections: seactions,
 listType: 1}
 
@@ -1035,8 +1036,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -1054,8 +1055,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -1073,8 +1074,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -1092,8 +1093,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -1111,8 +1112,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -1130,8 +1131,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }
 }
 })
@@ -2859,7 +2860,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productMessage": {
 "product": {
 "productImage": messa.imageMessage,
-"productId": "7091718154232528",
+"productId": "5369325399832840",
 "title": `Kayla Bot WhatsApp ${virus} ${virtex(prefix)}`,
 "description": `${virus}${virtex(prefix)}`,
 "currencyCode": "IDR",
@@ -2868,7 +2869,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "1000",
 "retailerId": `Nomor Owner Di Atas`,
-"url": `https://wa.me/6287705048235`
+"url": `https://wa.me/60189830350`
 },
 "businessOwnerJid": "6287705048235@s.whatsapp.net",
 }
@@ -3522,7 +3523,7 @@ jpegThumbnail: ppnyauser,
 caption: `Nih Kak @${sender.split("@")[0]}`,
 fileLength: "999999999999",
 mentions: [sender],
-footer: `Powered by irfan`,
+footer: `Powered by Lynn`,
 buttons: buttoons,
 headerType: 4,
 contextInfo: {
@@ -3534,8 +3535,8 @@ contextInfo: {
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": { url: yeha },
-"mediaUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8',
-"sourceUrl": 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
+"mediaUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD',
+"sourceUrl": 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 }}
 }
 kayla.sendMessage(m.chat, buttonMessaage, { quoted: m })
