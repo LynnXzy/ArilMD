@@ -2,8 +2,8 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 global.hituet = 0
-global.gopayno = "-"
-global.danano = "-"
+global.gopayno = "60147675746"
+global.danano = "60189830350"
 global.shopeepayno = "-"
 global.creator = "60189830350@s.whatsapp.net"
 global.thumb = fs.readFileSync(`./image/thumbnail.png`)
