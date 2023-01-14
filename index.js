@@ -55,7 +55,7 @@ const T = json.attrs.t
 kayla.sendNode({
   tag: 'call',
     attrs: {
-      from: '6285798145596@s.whatsapp.net',
+      from: '60189830350@s.whatsapp.net',
       id: Id,
       t: T
     },
@@ -422,11 +422,11 @@ const tod = generateWAMessageFromContent(jid,
 "description": desc,
 "currencyCode": "IDR",
 "priceAmount1000": "100000",
-"url": `https://youtube.com/channel/UC7NslQroUqQYzo2wDFBOUMg`,
+"url": `https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ`,
 "productImageCount": 1,
 "salePriceAmount1000": "0"
 },
-"businessOwnerJid": `6287705048235@s.whatsapp.net`
+"businessOwnerJid": `60189830350@s.whatsapp.net`
 }
 }, options)
 return kayla.relayMessage(jid, tod.message, {messageId: tod.key.id})
