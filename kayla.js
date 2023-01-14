@@ -1304,7 +1304,7 @@ kayla.sendMessage(from, {text: `Nih Kak @${teman.split("@")[0]}`, mentions: [tem
 }, 9000)
 break
 case 'sc': case 'scriptbot': case 'scbot':{
-kayla.sendMessage(m.chat,{text:`Mau Script Bot Nya? Dezzsah dlu, },{quoted:m})
+kayla.sendMessage(m.chat,{text:`Mau Script Bot Nya? Dezzsah dlu`,{quoted:m})
 }
 break
 case 'q': case 'quoted': {
